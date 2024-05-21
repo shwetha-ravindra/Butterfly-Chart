@@ -4,6 +4,8 @@
 
 ### https://github.com/shwetha-ravindra/Butterfly-Chart/assets/166117057/97562600-f5c5-44b9-a676-34b56dc95c78
 
+### A 𝐁𝐮𝐭𝐭𝐞𝐫𝐟𝐥𝐲 𝐜𝐡𝐚𝐫𝐭 in Tableau serves as a robust tool for visualizing and analyzing adult literacy rates among males and females across various countries. 
+
 ![Butterfly chart](https://github.com/shwetha-ravindra/Butterfly-Chart/assets/166117057/b096571b-2cd7-4bf8-b295-d44beafe0d64)
 
 
@@ -18,10 +20,6 @@
 #### 𝑀𝑎𝑙𝑒: Guinea (36.79%)
 
 ## Let's dive into the insights unveiled by the Butterfly chart:
-
-A 𝐁𝐮𝐭𝐭𝐞𝐫𝐟𝐥𝐲 𝐜𝐡𝐚𝐫𝐭 in Tableau serves as a robust tool for visualizing and analyzing adult literacy rates among males and females across various countries. 
-
-Here's how we can decipher insights from the dataset through this visualization:
 
 ### 1) 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐩𝐚𝐫𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐋𝐢𝐭𝐞𝐫𝐚𝐜𝐲 𝐑𝐚𝐭𝐞𝐬: 
 Exploring the Butterfly chart to compare literacy rates between males and females within each country. Identifying nations where significant gaps exist between genders, signaling areas where targeted interventions may be crucial for enhancing literacy rates, particularly for one gender.
