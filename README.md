@@ -4,7 +4,7 @@
 
 ### https://github.com/shwetha-ravindra/Butterfly-Chart/assets/166117057/97562600-f5c5-44b9-a676-34b56dc95c78
 
-### A 𝐁𝐮𝐭𝐭𝐞𝐫𝐟𝐥𝐲 𝐜𝐡𝐚𝐫𝐭 in Tableau serves as a robust tool for visualizing and analyzing adult literacy rates among males and females across various countries. 
+## A 𝐁𝐮𝐭𝐭𝐞𝐫𝐟𝐥𝐲 𝐜𝐡𝐚𝐫𝐭 in Tableau serves as a robust tool for visualizing and analyzing adult literacy rates among males and females across various countries. 
 
 ![Butterfly chart](https://github.com/shwetha-ravindra/Butterfly-Chart/assets/166117057/b096571b-2cd7-4bf8-b295-d44beafe0d64)
 
